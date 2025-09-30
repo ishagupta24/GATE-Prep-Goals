@@ -1,2 +1,2 @@
 # GATE-Prep-Goals
-My daily GATE preparation goals and progress tracker...!!
+🎯 My daily GATE preparation goals and progress tracker...!!
