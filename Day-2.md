@@ -1,4 +1,4 @@
-                                                                        ✅ #DAY-2 - GATE Prep Plan
+                                                 ✅ #DAY-2 - GATE Prep Plan
 📘 1. Network Theory
 
 Revise: Thevenin’s & Superposition Theorem
