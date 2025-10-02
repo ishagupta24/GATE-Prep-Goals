@@ -26,3 +26,7 @@ Solve 5 practice questions
 Revise yesterday’s short notes (EMFT & S&S) for 15-20 minutes
 
 Optional: Flashcards or quiz on Network theorems
+
+
+
+                                                 ✔ COMPLETED TASK!!
