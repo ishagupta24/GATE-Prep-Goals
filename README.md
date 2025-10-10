@@ -18,9 +18,9 @@
 ## 📊 Progress Tracker
 | Subject                 |    Status       |       Completion        |
 |-------------------------|-----------------|-------------------------|
-| Networks                | In Progress     | █████▒▒▒▒▒▒       60%   |
-| EMFT                    | In Progress     | ████████▒▒▒       80%   |
-| Signals & Systems       | In Progress     | ███▒▒▒▒▒▒▒▒       30%   |
+| Networks                | In Progress     | █████▒▒▒▒▒▒       70%   |
+| EMFT                    | In Progress     | ████████▒▒▒       89%   |
+| Signals & Systems       | In Progress     | ███▒▒▒▒▒▒▒▒       40%   |
 | Analog Electronics      | In Progress     | █▒▒▒▒▒▒▒▒▒▒       05%   |
 | Electrical Measurement  | In Progress     | ████▒▒▒▒▒▒▒       50%   |
 
